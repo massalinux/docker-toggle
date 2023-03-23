@@ -1,3 +1,3 @@
-# Docker Toggle
+# Docker Toggle for Raycast
 
-Show and Toggle your docker projects
+Raycast extension to Show and Toggle your docker projects
